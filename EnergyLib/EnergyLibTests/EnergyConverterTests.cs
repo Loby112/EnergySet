@@ -12,8 +12,8 @@ namespace EnergyLib.Tests {
         [TestMethod()]
         public void ToJouleTest(){
             EnergyData energy = new EnergyData();
-            energy.EnergyValue = EnergyConverter.ToCalorie(534);
-            Assert.AreEqual(Math.Round(534/4.2, 2), energy.EnergyValue);
+            energy.Value = EnergyConverter.ToCalorie(534);
+            Assert.AreEqual(Math.Round(534/4.2, 2), energy.Value);
 
         }
 

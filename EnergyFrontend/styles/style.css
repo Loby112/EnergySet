@@ -1,0 +1,4 @@
+button {margin: 5px;}
+table {margin: 5px; background: linear-gradient(red,blue)}
+input {margin: 5px}
+body {background: linear-gradient(rgb(9, 55, 70),rgb(64, 121, 185),rgb(226, 44, 217), red); background-repeat: no-repeat; height: 100vh;}

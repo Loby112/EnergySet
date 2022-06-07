@@ -15,7 +15,6 @@ namespace UDPServer{
 
                     IPEndPoint clientEndPoint = null;
                     while (true){
-                        IPEndPoint from = null;
                         string reply = "Result is ";
 
                         byte[] data = socket.Receive(ref clientEndPoint);
