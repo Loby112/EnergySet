@@ -1,0 +1,13 @@
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyRestAPI\EnergyRestAPI\obj\Release\net5.0\PubTmp\Out\EnergyRestAPI.exe
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyRestAPI\EnergyRestAPI\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyRestAPI\EnergyRestAPI\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyRestAPI\EnergyRestAPI\obj\Release\net5.0\PubTmp\Out\EnergyRestAPI.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyRestAPI\EnergyRestAPI\obj\Release\net5.0\PubTmp\Out\EnergyRestAPI.deps.json
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyRestAPI\EnergyRestAPI\obj\Release\net5.0\PubTmp\Out\EnergyRestAPI.runtimeconfig.json
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyRestAPI\EnergyRestAPI\obj\Release\net5.0\PubTmp\Out\EnergyRestAPI.pdb
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyRestAPI\EnergyRestAPI\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyRestAPI\EnergyRestAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyRestAPI\EnergyRestAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyRestAPI\EnergyRestAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyRestAPI\EnergyRestAPI\obj\Release\net5.0\PubTmp\Out\EnergyLib.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyRestAPI\EnergyRestAPI\obj\Release\net5.0\PubTmp\Out\EnergyLib.pdb

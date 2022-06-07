@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyLib", "EnergyLib\EnergyLib.csproj", "{C067E2B3-FD96-42A2-B3B9-E5C6910E291A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyLibTests", "EnergyLibTests\EnergyLibTests.csproj", "{4451485B-E9B2-48BA-A207-F1D95EC5938A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C067E2B3-FD96-42A2-B3B9-E5C6910E291A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C067E2B3-FD96-42A2-B3B9-E5C6910E291A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C067E2B3-FD96-42A2-B3B9-E5C6910E291A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C067E2B3-FD96-42A2-B3B9-E5C6910E291A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4451485B-E9B2-48BA-A207-F1D95EC5938A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4451485B-E9B2-48BA-A207-F1D95EC5938A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4451485B-E9B2-48BA-A207-F1D95EC5938A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4451485B-E9B2-48BA-A207-F1D95EC5938A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B6206F4-885B-4E07-806A-D8371A337010}
+	EndGlobalSection
+EndGlobal

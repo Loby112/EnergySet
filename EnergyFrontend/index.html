@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- https://www.bootstrapcdn.com/ -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.js"></script>
+    <script src="https://unpkg.com/vue@next"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <title>Eenrgy</title>
+</head>
+
+<body>
+    <div id="app">
+        <button class="btn btn-secondary" @click="getAllEnergyData('Calorie')">Convert to Calories</button>
+        <button class="btn btn-secondary" @click="getAllEnergyData('Joule')">Convert to Joule</button>
+        <button class="btn btn-secondary" @click="getAllEnergyData('')">Convert to Original</button>
+        <table class="table table-striped table-dark" v-if="energyList.length">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Type</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr v-for="data in energyList">
+                    <td>{{data.id}}</td>
+                    <td>{{data.energyMetric}}</td>
+                    <td>{{data.value}}</td>
+
+                </tr>
+            </tbody>
+        </table>
+
+        <input v-model="newData.energyMetric" placeholder="Energy Metric"></input>
+        <input v-model="newData.value" placeholder="Value"></input>
+        <button @click="addEnergy()" class="btn btn-success">Add something</button>
+    </div>
+    <script src="js/index.js"></script>
+</body>

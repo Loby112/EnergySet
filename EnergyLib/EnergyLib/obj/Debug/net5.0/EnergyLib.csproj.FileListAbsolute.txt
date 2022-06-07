@@ -1,0 +1,12 @@
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyLib\EnergyLib\bin\Debug\net5.0\EnergyLib.deps.json
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyLib\EnergyLib\bin\Debug\net5.0\EnergyLib.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyLib\EnergyLib\bin\Debug\net5.0\EnergyLib.pdb
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyLib\EnergyLib\obj\Debug\net5.0\EnergyLib.csproj.AssemblyReference.cache
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyLib\EnergyLib\obj\Debug\net5.0\EnergyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyLib\EnergyLib\obj\Debug\net5.0\EnergyLib.AssemblyInfoInputs.cache
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyLib\EnergyLib\obj\Debug\net5.0\EnergyLib.AssemblyInfo.cs
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyLib\EnergyLib\obj\Debug\net5.0\EnergyLib.csproj.CoreCompileInputs.cache
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyLib\EnergyLib\obj\Debug\net5.0\EnergyLib.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyLib\EnergyLib\obj\Debug\net5.0\refint\EnergyLib.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyLib\EnergyLib\obj\Debug\net5.0\EnergyLib.pdb
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\EnergySet\EnergyLib\EnergyLib\obj\Debug\net5.0\ref\EnergyLib.dll
