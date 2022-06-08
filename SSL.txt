@@ -1,0 +1,6 @@
+Stikord til SSL Secure Sockets Layer
+Det er kryptering som giver sikkerhed.
+Assymetrisk *og* symmetrisk sammenarbejde
+Bruger seperat nøgle for encryption (public) og decryption (private)	 
+Man kan lave det via cmd prompt, bruge makecert, skal lave private key password 
+Bruge mmc til at add certificate 
